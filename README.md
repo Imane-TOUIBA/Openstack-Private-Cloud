@@ -27,5 +27,4 @@ Le rapport couvre les points suivants :
 
 openstack-private-cloud/
 ├── README.md
-└── rapport/
-    └── rapport_final.pdf
+└── Rapport_Cloud_Computing
