@@ -1,4 +1,3 @@
-# Openstack-Private-Cloud
 # Rapport – Mise en place d’une Infrastructure Cloud Privée avec OpenStack
 
 ## 📝 Présentation
